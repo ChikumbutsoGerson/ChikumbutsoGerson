@@ -1,8 +1,7 @@
-# 👋 Hello, I'm [Your Name]
-
+# 👋 Hello, I'm Chikumbutso Gerson
 ## Full Stack Software Engineer | Certified Elasticsearch Engineer
 
-I'm a passionate full stack developer with expertise in building scalable web applications and search solutions. I specialize in modern web technologies and have a proven track record of delivering robust, performant applications.
+I'm a passionate full stack developer with expertise in building robust and scalable applications and observability solutions.
 
 ---
 
@@ -17,42 +16,11 @@ I'm a passionate full stack developer with expertise in building scalable web ap
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Development Stack
-**Languages & Frameworks:** PHP, Python, JavaScript, Laravel, React, Vue.js, Livewire
-
-**Styling:** Tailwind CSS, Bootstrap, CSS
-
-**Testing & Quality Assurance:** PEST, PHPUnit, Postman
-
-**Documentation:** Swagger for comprehensive API documentation
-
-### Data & Analytics
-**Search & Monitoring:** Elasticsearch, AppDynamics, Power BI
-
-**Databases:** MySQL, PostgreSQL, MongoDB
-
-**Database Management:** Design, optimization, implementation, and troubleshooting
-
-### DevOps & Integration
-**Containerization:** Docker
-
-**CI/CD:** GitHub Actions
-
-**API Management:** WSO2 (rate limiting, caching, versioning, subscriptions)
-
-**Version Control:** Git, GitHub, Bitbucket
-
-### System Administration
-**Operating Systems:** Windows Server, Linux Server
-
-**Capabilities:** Server setup and maintenance, complex system support, application and network security configuration, vulnerability assessment
-
 ---
 
 ## 🌱 Currently Learning
 - Go
 - C#
-- .NET
 
 ---
 
@@ -61,4 +29,4 @@ I'm a passionate full stack developer with expertise in building scalable web ap
 
 ---
 
-⭐️ From [Your GitHub Username]
+⭐️
