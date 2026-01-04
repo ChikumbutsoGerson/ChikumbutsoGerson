@@ -1,7 +1,7 @@
-# 👋 Hello, I'm Chikumbutso Gerson
-## Full Stack Software Engineer | Certified Elasticsearch Engineer
+# 👋 Hello <there />
+## Software Engineer | Elasticsearch Engineer | AI Enthusiast
 
-I'm a passionate full stack developer with expertise in building robust and scalable applications and observability solutions.
+- I'm a passionate full stack developer with expertise in building robust and scalable applications and observability solutions.
 
 ---
 
@@ -17,11 +17,12 @@ I'm a passionate full stack developer with expertise in building robust and scal
 ![Livewire](https://img.shields.io/badge/-Livewire-4E56A6?style=flat-square&logo=laravel-livewire&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Power Apps](https://img.shields.io/badge/-Power%20Apps-742774?style=flat-square&logo=powerapps&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
 
 ---
 
@@ -32,8 +33,6 @@ I'm a passionate full stack developer with expertise in building robust and scal
 ---
 
 ## 📫 Let's Connect
-[Add your contact links here - LinkedIn, Twitter, Email, Portfolio, etc.]
-
 ---
 
 ⭐️
