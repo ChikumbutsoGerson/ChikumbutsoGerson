@@ -4,7 +4,7 @@
 - I'm a passionate full stack developer
 - Expertise in building robust and scalable applications and observability solutions.
 
----
+--
 
 ## 🚀 Technical Expertise
 
@@ -23,16 +23,3 @@
 ![Power Apps](https://img.shields.io/badge/-Power%20Apps-742774?style=flat-square&logo=powerapps&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-
----
-
-## 🌱 Currently Learning
-- C#
-
----
-
-## 📫 Let's Connect
----
-
-⭐️
