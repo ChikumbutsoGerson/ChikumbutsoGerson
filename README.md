@@ -1,8 +1,7 @@
 # 👋 Hello <there /\>
 ## Software Engineer | Elasticsearch Engineer | AI Enthusiast
 
-- I'm a passionate full stack developer
-- Expertise in building robust and scalable applications and observability solutions.
+- I'm a passionate Full Stack Software Engineer and Certified ElasticSearch Engineer
 
 ---
 
